@@ -1,0 +1,16 @@
+.box {
+	text-align:center;
+	border:1px solid Gainsboro; 
+	border-radius: 10px;
+	background-color: Gainsboro;
+	margin-bottom: 20px;
+
+}
+.box h4 {
+	display: inline;
+}
+.jumbotron {
+	background : url("../images/lion.jpg");
+	background-size: cover;
+
+}
